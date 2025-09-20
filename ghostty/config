@@ -1,4 +1,4 @@
-theme = catppuccin-frappe
+theme = catppuccin-frappe.conf
 font-family = "JetBrainsMono NF"
 font-size = 14
 font-thicken = true
