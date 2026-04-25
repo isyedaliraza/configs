@@ -14,3 +14,4 @@ yabai -m rule --add app="^Calculator$" manage=off
 yabai -m rule --add app="^Simulator$" manage=on
 yabai -m rule --add app="^Archive Utility$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
+yabai -m rule --add app="^Hoppscotch$" manage=off
